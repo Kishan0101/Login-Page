@@ -21,7 +21,8 @@ This project is a **responsive login page** built using **HTML**, **CSS**, and *
 ![Screenshot](./path-to-screenshot.![FireShot Capture 039 - Login Page - ](https://github.com/user-attachments/assets/4d8d6982-2d5b-4227-981e-f78bd7c2ea47)
 png)
 Video-
-[screencast--2024_10_04-00_01_49.webm](https://github.com/user-attachments/assets/7b6ce299-e1ab-4245-a6ae-4c706f934ced)
+[screencast--2024_10_04-00_01_49.webm](https://github.com/user-attachments/assets/44313ab2-3567-4a43-8493-f3ffd36d9abf)
+
 
 
 ## 🚀 Getting Started
