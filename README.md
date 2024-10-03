@@ -2,7 +2,8 @@
 
 This project is a **responsive login page** built using **HTML**, **CSS**, and **Tailwind CSS**. The login interface has been designed with simplicity and functionality in mind, making it ideal for websites with eco-friendly or health-conscious themes.
 
-![Login Page Preview]()[screencast--2024_10_04-00_01_49.webm](https://github.com/user-attachments/assets/c12ac2df-e042-4eb9-b0f4-5ed255ce6228)
+![Login Page Preview][screencast--2024_10_04-00_01_49.webm](https://github.com/user-attachments/assets/32e3e2f3-5e7b-49cf-a95c-30f81a8f91f0)
+
 
 
 ## 🛠️ Technologies Used
