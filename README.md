@@ -1,24 +1,31 @@
-🌿 FarmMan Login Page
-This project is a responsive login page built using HTML, CSS, and Tailwind CSS. The login interface has been designed with simplicity and functionality in mind, making it ideal for websites with eco-friendly or health-conscious themes.
+# 🌿 FarmMan Login Page
+
+This project is a **responsive login page** built using **HTML**, **CSS**, and **Tailwind CSS**. The login interface has been designed with simplicity and functionality in mind, making it ideal for websites with eco-friendly or health-conscious themes.
+
+![Login Page Preview](./path-to-screenshot.png)
+
+## 🛠️ Technologies Used
+
+- **HTML**: For structuring the web page.
+- **CSS**: For adding custom styles.
+- **Tailwind CSS**: For efficient and responsive design using utility-first CSS classes.
+
+## ✨ Features
+
+- **Responsive Design**: Ensures that the layout adapts seamlessly to different screen sizes, from mobile devices to desktop monitors.
+- **Social Media Icons**: Allows users to log in using popular social media platforms like **Google**, **Facebook**, and **Instagram**.
+- **Interactive Form**: Simple, clean form for user login with clear password reset options.
+
+## 🖼️ Preview
+
+![Screenshot](./path-to-screenshot.![FireShot Capture 039 - Login Page - ](https://github.com/user-attachments/assets/4d8d6982-2d5b-4227-981e-f78bd7c2ea47)
+png)
+Video-
+[screencast--2024_10_04-00_01_49.webm](https://github.com/user-attachments/assets/7b6ce299-e1ab-4245-a6ae-4c706f934ced)
 
 
-🛠️ Technologies Used
-HTML: For structuring the web page.
-CSS: For adding custom styles.
-Tailwind CSS: For efficient and responsive design using utility-first CSS classes.
-✨ Features
-Responsive Design: Ensures that the layout adapts seamlessly to different screen sizes, from mobile devices to desktop monitors.
-Social Media Icons: Allows users to log in using popular social media platforms like Google, Facebook, and Instagram.
-Interactive Form: Simple, clean form for user login with clear password reset options.
-🖼️ Preview
+## 🚀 Getting Started
 
-🚀 Getting Started
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/farmman-login.git
-Open the index.html file in your browser to view the login page.
-
-📚 License
-This project is licensed under the MIT License. Feel free to fork, modify, and use the code.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/kishan0101/login.git
